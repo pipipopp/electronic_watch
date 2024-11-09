@@ -1,1 +1,5 @@
-document.getElementById("clock").textContent = '737823';
+function updateClock(){
+
+}
+
+document.getElementById("clock").textContent = new Date();
